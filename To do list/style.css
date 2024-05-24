@@ -1,0 +1,96 @@
+h5{
+    background-color:#0096FF;
+    height: 37px;
+    width: 95px;
+    border-radius: 5px;
+    position: absolute;
+    top:12% ;
+    left:35% ;
+     color: white;
+   text-align: left;
+      
+}
+h1{
+    text-align: center;
+    color: rgb(146, 171, 192);
+}
+#checked{
+    position: absolute;
+    left: 68.5%;
+    top: 15%;
+    background-color: gray;
+    height: 39px;
+    width: 100px;
+    border-radius: 9px;
+}
+.btn1{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    height: 30px;
+    width: 536px;
+    position: absolute;
+    top: 23%;
+    left: 35%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    gap: 3px;
+    border-radius: 4px;
+}
+body{
+background-color: aliceblue;
+
+}
+.btn2{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    height: 30px;
+    width: 536px;
+    position: absolute;
+    top: 33%;
+    left: 35%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    gap: 3px;
+    border-radius: 4px;
+}
+.btn3{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    height: 30px;
+    width: 536px;
+    position: absolute;
+    top: 45%;
+    left: 35%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    gap: 3px;
+    border-radius: 4px;
+}
+#checked1{
+    height: 20px;
+    position: absolute;
+    right: 370px;
+    top: 24%;
+    background-color: antiquewhite;
+}
+#pencil{
+    height: 20px;
+    position: absolute;
+    right: 330px;
+    top: 24%;
+    background-color: antiquewhite;
+}
+.order{
+  background-color: rgb(243, 233, 233); 
+  height: 215px; 
+  width: 600px;
+  margin-top: 85px;
+ margin-left: 350px;
+ border-radius: 15px;
+}
